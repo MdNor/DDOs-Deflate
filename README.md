@@ -1,4 +1,4 @@
 DDOs-Deflate
 ============
 
-Mirror for the ever popular DDos Deflate script
+Basic script to handle DDoS attack
